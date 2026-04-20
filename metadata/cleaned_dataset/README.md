@@ -1,0 +1,1 @@
+Metadata for the cleaned silver and non-silver images includes structured information for each sample, such as class label, file path, and standardized image size (e.g., 224 × 224 pixels). The cleaned dataset contains 7,310 images, evenly balanced between the two classes. This metadata supports efficient preprocessing and training of machine learning models.
