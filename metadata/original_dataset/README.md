@@ -1,8 +1,9 @@
 # Original Silver Image Dataset Metadata
+Description: metadata for both the silver and non-silver class in CSN+V and JSON format
 
 ## Dataset Summary
 
-The original silver image dataset represents the initial unbalanced dataset collected for this project prior to cleaning and preprocessing.
+Description: Metadata for both silver and non-silver classes, provided in CSV and JSON formats.
 
 - **Total Images:** 20,564  
 - **Silver Images:** 3,869  
