@@ -1,5 +1,5 @@
 # Metadata For Original Silver Image Dataset 
-Description: metadata for both the silver and non-silver class in CSN+V and JSON format
+Description: metadata for both the silver and non-silver class in CSV and JSON format
 
 ## Dataset Summary
 
