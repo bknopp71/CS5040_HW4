@@ -1,1 +1,16 @@
-Metadata for the cleaned silver and non-silver images includes structured information for each sample, such as class label, file path, and standardized image size (e.g., 224 × 224 pixels). The cleaned dataset contains 7,310 images, evenly balanced between the two classes. This metadata supports efficient preprocessing and training of machine learning models.
+# Cleaned and Balanced Silver Mineral Image Dataset
+
+## Metadata
+
+The dataset is fully balanced and prepared for machine learning.
+
+- **Total Images:** 7,310  
+- **Silver Images:** 3,655  
+- **Non-silver Images:** 3,655  
+
+All images are standardized to a consistent size (e.g., 224 × 224 pixels) to ensure compatibility with machine learning models and efficient training.
+
+Each image includes metadata such as:
+- Class label (silver or non-silver)
+- File path
+- Image dimensions
