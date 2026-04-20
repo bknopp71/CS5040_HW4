@@ -1,4 +1,4 @@
-# Cleaned and Balanced Silver Mineral Image Dataset
+# Metadata For Cleaned and Balanced Silver Mineral Image Dataset
 
 ## Description
 
