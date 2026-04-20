@@ -2,7 +2,7 @@
 ### Orginal Silver Image Dataset: 
 Silver Images: 16,580   
 Non-silver Images: 3,655                               
-[https://drive.google.com/drive/folders/silver_detection/dataset/](https://drive.google.com/drive/folders/143MnLPbHyAF5aqPPYWIergjl5NX1t0vO)
+[https://drive.google.com/drive/folders/silver_detection/dataset](https://drive.google.com/drive/folders/143MnLPbHyAF5aqPPYWIergjl5NX1t0vO)
 
    
 ### Cleaned and Balanced Silver Mineral Image Dataset 
