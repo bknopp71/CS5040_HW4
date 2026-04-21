@@ -44,7 +44,6 @@ Images were collected from the Mindat.org database and organized into two binary
 The silver class includes native silver and related silver-bearing minerals identified with the following keywords. A image distribution is not currently listed:
 
 - *Silver*
-- *Native silver*
 - *Argentum*
 - *Argentite*
 - *Chlorargyrite*
