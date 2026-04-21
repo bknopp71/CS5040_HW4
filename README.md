@@ -32,11 +32,12 @@ This notebook validates the downloaded dataset and generates structured metadata
 This notebook a conversion function use to generate a JSON file from CSV file.
 
 ## Data
-Images were collected from the Mindat.org database and organized into two binary categories for classification: **silver** and **non_silver** image class. The *silver_images* folder contains **3,869 JPEG images**, while the *non_silver_images* folder contains **16,695 JPEG images**. All image data are stored on Google OneDrive, and the data folder provides a direct link to the drive from the README.md file. The folder structure of the Gogle OneDrive is shown below.
+Images were collected from the Mindat.org database and organized into two binary classes for classification: silver and non_silver. The silver_images folder contains 3,869 JPEG images, and the non_silver_images folder contains 16,695 JPEG images. All image data are stored on Google OneDrive, and the data folder provides a direct link from the README.md file. The folder structure of the Google OneDrive is shown below.Two versions of the dataset are provided. The first is the original downloaded dataset. The second is a cleaned and balanced dataset prepared for machine learning.
 
+## Orginal Dataset
 <img width="481" height="255" alt="image" src="https://github.com/user-attachments/assets/0e2778fe-6d5c-46ea-9119-2329030b76b2" /> <br>
 
-
+## Dataset
 
 The silver class includes native silver and related silver-bearing minerals identified with the following keywords. A image distribution is not currently listed:
 
