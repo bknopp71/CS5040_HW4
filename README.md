@@ -1,7 +1,10 @@
 # Silver Detection Machine Learning Project
-
 ## Overview
-This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It consists of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 images**. This repository is organized into three folders: data, metadata, and code_file. The data folder contains all mineral images in JPEG format, the metadata folder stores descriptive information for each image in both CSV and JSON format, and the code_file folder includes the Python scripts used to collect and process the dataset. All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1]. The folder structure is shown bellow.<br><br>
+This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It originally consisted of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 images** in the initial downloaded dataset. However, due to mislabeled images and class imbalance, the dataset was filtered to **3,655 silver images** and **3,655 non-silver images**, resulting in a balanced total of **7,310 images**.
+
+This repository is organized into three folders: **data**, **metadata**, and **code_file**, which support the dataset used to train machine learning binary classification models for silver detection. The **data** folder contains all mineral images in JPEG format, the **metadata** folder stores descriptive information for each image in both CSV and JSON formats, and the **code_file** folder includes the Python scripts used to collect and process the dataset. The code files also contain exploratory machine learning models using convolutional neural networks and vision transformer architectures.
+
+All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1]. The folder structure is outlined below.<br><br>
 
 <img width="282" height="231" alt="image" src="https://github.com/user-attachments/assets/c2c94922-4b66-45d3-a374-4b0d28bb5c63" />
 
