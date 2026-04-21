@@ -17,7 +17,7 @@ This notebook performs automated data acquisition. It reads the Mindat image URL
 
 2. ***data_exploration.ipynb***
 
-This notebook performs automated data acquisition. It reads the Mindat image URL list, filters minerals into silver and non-silver classes, and programmatically downloads available JPEG images. The script includes error handling, logging, and class balancing logic (including hard and easy negatives) to construct the final dataset.
+This code performs exploratory data analysis on the silver and non-silver mineral image dataset by visualizing class distribution mineral types and image characteristics such as width aspect ratio brightness and contrast. It also cleans the dataset filters valid samples and prepares the images for machine learning by loading resizing normalizing and formatting them for CNN training
 
 3. ***machine_learning_models.ipynb***
 
@@ -29,7 +29,7 @@ This notebook validates the downloaded dataset and generates structured metadata
 
 5. ***utility_JSON_conversion.ipynb***
 
-This notebook validates the downloaded dataset and generates structured metadata. It checks file integrity, extracts image properties (dimensions, size, format), assigns class labels, and exp
+This notebook a conversion function use to generate a JSON file from CSV file.
 
 ## Data
 Images were collected from the Mindat.org database and organized into two binary categories for classification: **silver** and **non_silver** image class. The *silver_images* folder contains **3,869 JPEG images**, while the *non_silver_images* folder contains **16,695 JPEG images**. All image data are stored on Google OneDrive, and the data folder provides a direct link to the drive from the README.md file. The folder structure of the Gogle OneDrive is shown below.
