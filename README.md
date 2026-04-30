@@ -66,7 +66,7 @@ The non silver class is composed of approximately 70% hard negative images and 3
 - *Chalcopyrite*
 - *Molybdenite*
 
-Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non-silver, along with the associated mineral name, which can be used directly in machine learning classification models. Each datasethas it own metadata file for each of its silver and non-silver class.
+Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non silver, along with the associated mineral name, which can be used directly in machine learning classification models. Each dataset has its own metadata file for the silver and non silver classes.
 
 **Note:** All other CSV and JSON files in the data folder can be ignored, as they are archived files used during the creation of the image dataset.
 
