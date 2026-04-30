@@ -17,7 +17,7 @@ This notebook performs automated data acquisition. It reads the Mindat image URL
 
 2. ***data_exploration.ipynb***
 
-This code performs exploratory data analysis on the silver and non-silver mineral image dataset by visualizing class distribution mineral types and image characteristics such as width aspect ratio brightness and contrast. It also cleans the dataset filters valid samples and prepares the images for machine learning by loading resizing normalizing and formatting them for CNN training
+This code performs exploratory data analysis on the silver and non silver mineral image dataset. The process visualizes class distribution mineral types and key image characteristics such as width aspect ratio brightness and contrast. It then cleans the dataset filters valid samples and prepares the images for machine learning by loading resizing normalizing and formatting them for CNN training.
 
 3. ***machine_learning_models.ipynb***
 
