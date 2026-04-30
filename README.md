@@ -25,7 +25,7 @@ This notebook applies five machine learning models to classify mineral images as
 
 4. ***metadata.ipynb***
 
-This code builds and validates metadata for silver and non silver image datasets by verifying files and extracting image properties such as format size color mode dimensions and aspect ratio. It then organizes the metadata and exports it to JSON and CSV for dataset validation and machine learning use.
+This code builds and validates metadata for silver and non silver image datasets for machine learning models. It verifies files and extracts image metadata such as format, size, color mode, dimensions, and aspect ratio. All metadata is organized and exported to JSON and CSV for dataset validation and machine learning use.
 
 5. ***utility_JSON_conversion.ipynb***
 
