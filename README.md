@@ -13,7 +13,7 @@ This project uses 5 Jupyter Notebooks to implement the data collection, validati
 
 1. ***create_data.ipynb***
 
-This notebook performs automated data acquisition. It reads the Mindat image URL list, filters minerals into silver and non silver classes, and programmatically downloads available JPEG images. The script includes error handling, logging, and class balancing logic including hard and easy negatives to construct the final dataset.
+This notebook performs automated data acquisition to produce images for the silver and non-silver classes. It reads the Mindat image URL list, filters minerals into silver and non-silver categories, and programmatically downloads available JPEG images. The script includes error handling, logging, and class-balancing logic, including hard and easy negatives, to construct the final dataset.
 
 2. ***data_exploration.ipynb***
 
