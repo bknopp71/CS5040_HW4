@@ -56,20 +56,22 @@ The silver class includes native silver and related silver-bearing minerals iden
 - *Miargyrite*
 - *Freibergite*
 
-#### Non-silver Class
-The non-silver class is composed of approximately 70% hard negatives and 30% easy negatives to improve model robustness.
+#### Non-Silver Class
 
-- *Hard negatives: visually similar minerals that are difficult to distinguish from silver*
-- *Easy negatives: all other minerals that are clearly not silver-bearing*
+The non-silver class is composed of approximately **70% hard negatives** and **30% easy negatives** to improve model robustness.
 
-- *Galena*
-- *Pyrite*
-- *Hematite*
-- *Graphite*
-- *Stibnite*
-- *Chalcopyrite*
-- *Molybdenite*
+- **Hard negatives**: Visually similar minerals that are difficult to distinguish from silver  
+- **Easy negatives**: All other minerals that are clearly not silver-bearing  
 
+### Hard Negative Minerals
+- Galena  
+- Pyrite  
+- Hematite  
+- Graphite  
+- Stibnite  
+- Chalcopyrite  
+- Molybdenite
+- 
 Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non silver, along with the associated mineral name, which can be used directly in machine learning classification models. Each dataset has its own metadata file for the silver and non silver classes.
 
 ## Metadata
