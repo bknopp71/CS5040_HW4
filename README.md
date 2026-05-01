@@ -68,7 +68,8 @@ The non-silver class is composed of approximately **70% hard negatives** and **3
 - Pyrite  
 - Hematite  
 - Graphite  
-- Stibnite  
+- Stibnite
+- Sphalerite
 - Chalcopyrite  
 - Molybdenite
   
