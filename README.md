@@ -63,7 +63,7 @@ The non-silver class is composed of approximately **70% hard negatives** and **3
 - **Hard negatives**: Visually similar minerals that are difficult to distinguish from silver  
 - **Easy negatives**: All other minerals that are clearly not silver-bearing  
 
-### Hard Negative Minerals
+#### Hard Negative Minerals
 - Galena  
 - Pyrite  
 - Hematite  
