@@ -45,7 +45,6 @@ The silver class includes native silver and related silver-bearing minerals iden
 
 - *Silver*
 - *Argentum*
-- *Argentite*
 - *Chlorargyrite*
 - *Proustite*
 - *Pyrargyrite*
