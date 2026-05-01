@@ -9,7 +9,7 @@ All images were obtained from the Mindat database, a resource specializing in mi
 <img width="282" height="231" alt="image" src="https://github.com/user-attachments/assets/c2c94922-4b66-45d3-a374-4b0d28bb5c63" />
 
 ## code_file
-This project uses 5 Jupyter Notebooks to implement the data collection, validation, machine learning workflow for the silver detection dataset.
+This project uses five Jupyter Notebooks to implement the data collection, validation, machine learning workflow for the silver detection dataset.
 
 1. ***create_data.ipynb***
 
@@ -17,7 +17,7 @@ This notebook performs automated data acquisition to produce images for the silv
 
 2. ***data_exploration.ipynb***
 
-This code explores the silver and non silver dataset by generating distribution plots that show class balance, mineral types, and image characteristics such as width, aspect ratio, brightness, and contrast. It then prepares the dataset for machine learning by loading and formatting the images in Keras for CNN training.
+This code explores the silver and non-silver dataset by generating distribution plots that show class balance, mineral types, and image characteristics such as width, aspect ratio, brightness, and contrast. It then prepares the dataset for machine learning by loading and formatting the images in Keras for CNN training.
 
 3. ***machine_learning_models.ipynb***
 
