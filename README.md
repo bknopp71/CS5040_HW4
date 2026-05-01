@@ -71,7 +71,7 @@ The non-silver class is composed of approximately **70% hard negatives** and **3
 - Stibnite  
 - Chalcopyrite  
 - Molybdenite
-- 
+  
 Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non silver, along with the associated mineral name, which can be used directly in machine learning classification models. Each dataset has its own metadata file for the silver and non silver classes.
 
 ## Metadata
