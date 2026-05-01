@@ -40,7 +40,7 @@ Images were collected from the Mindat.org database and organized into two binary
 ### Cleaned and Balanced Silver Mineral Image Dataset
 <img width="612" height="245" alt="image" src="https://github.com/user-attachments/assets/1fea60e0-42f7-4296-9766-63cd80de31ac" /> <br>
 
-# Silver Class
+#### Silver Class
 The silver class includes native silver and related silver bearing minerals identified using specific keywords as shown below. The image distribution is not listed here but is included in the exploratory analysis code file.
 
 - *Silver*
